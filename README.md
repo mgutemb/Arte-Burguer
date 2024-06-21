@@ -1,7 +1,6 @@
 # Bem-vindo ao Site da Arte&Burguer – Nosso Projeto Integrador do Senac
 ![GitHub](https://img.shields.io/github/license/mgutemb/Arte-Burguer)
-![W3C Validation]([https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fmgutemb.github.io%2FArte-Burguer%2F](https://img.shields.io/w3c-validation/:parser?targetUrl=https%3A%2F%2Fmgutemb.github.io%2FArte-Burguer%2F
-)
+![W3C Validation](https://img.shields.io/w3c-validation/:parser?targetUrl=https%3A%2F%2Fmgutemb.github.io%2FArte-Burguer%2F)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fmgutemb.github.io%2FArte-Burguer%2F)
 
 <p>
